@@ -1,1 +1,1 @@
-# AIFFEL_CV_project
+# Datathon
